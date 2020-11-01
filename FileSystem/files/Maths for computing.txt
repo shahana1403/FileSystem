@@ -1,0 +1,8 @@
+An Introduction to Mathematics for Computing and IT Practitioners Update.
+
+
+There are a number of topics within Mathematics which have a direct relevance to Computing and IT.
+ Some of these topics form the basis of how a computer processes data, some are used at a higher level to enable a 
+program to perform a required function, and others are algorithmic and can be easily implemented within a computer program. 
+This books attempts to bring together many of these mathematical concepts and present them in a way which is relevant to those studying
+ ICT and Computing qualifications, and to those who would like to start to explore this subject for themselves.

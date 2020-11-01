@@ -1,0 +1,31 @@
+A database is a collection of information that is organized so that it can be easily accessed, managed and updated. 
+Computer databases typically contain aggregations of data records or files, containing information 
+about sales transactions or interactions with specific customers.
+
+In a relational database, digital information about a specific customer is organized into rows, columns and tables which are
+ indexed to make it easier to find relevant information through SQL or NoSQL queries. In contrast, a graph database uses nodes and
+ edges to define relationships between data entries and queries require a special semantic search syntax.  As of this writing,
+ SPARQL is the only semantic query language that is approved by the World Wide Web Consortium (W3C). 
+
+Typically, the database manager provides users with the ability to control read/write access, specify report generation and 
+analyze usage. Some databases offer ACID (atomicity, consistency, isolation and durability) compliance to guarantee that data is 
+consistent and that transactions are complete.
+
+Types of databases
+Databases have evolved since their inception in the 1960s, beginning with hierarchical and network databases, through the 1980s with 
+object-oriented databases, and today with SQL and NoSQL databases and cloud databases.
+
+In one view, databases can be classified according to content type: bibliographic, full text, numeric and images. In computing, databases 
+are sometimes classified according to their organizational approach. There are many different kinds of databases, ranging from the most
+ prevalent approach, the relational database, to a distributed database, cloud database, graph database or NoSQL database.
+
+Relational database
+A relational database, invented by E.F. Codd at IBM in 1970, is a tabular database in which data is defined so that it can be reorganized
+ and accessed in a number of different ways.
+
+Relational databases are made up of a set of tables with data that fits into a predefined category. Each table has at least one data category in a column, and each row has a certain data instance for the categories which are defined in the columns.
+
+The Structured Query Language (SQL) is the standard user and application program interface for a relational database. Relational databases are easy to extend, and a new data category can be added after the original database creation without requiring that you modify all the existing applications.
+
+Distributed database
+A distributed database is a database in which portions of the database are stored in multiple physical locations, and in which processing is dispersed or replicated among different points in a network.

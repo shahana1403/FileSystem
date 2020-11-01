@@ -1,0 +1,48 @@
+Sensors are advanced devices that are used to sense and react to signals, either electrical or optical.  A sensor translates the physical characteristic of the input into a signal which can be calculated electrically.  For example, the mercury in a glass thermometer expands and compresses the liquid in order to represent the calculated temperature, which can be viewed on the graduated glass tube.
+
+ A sensor is a device which senses and reacts to some type of input from the physical environment.  Types of input are as follows: heat, light, moisture, motion, pressure, or any other environmental phenomenon.  The result is typically a signal that is either translated to human-readable display at the sensor location or sent electronically over a network for reading or further processing.
+
+Properties of a Good Sensor
+It is sensitive to the measured property.
+It is sensitive to any other property likely to be encountered in its application.
+It does not influence the measured property.
+A sensor’s sensitivity specifies how much the sensor’s output varies in relation to the extent that the input quantity being measured varies.  For example, if the mercury in the thermometer moves 1 cm when the temperature varies by 1 C, the sensitivity can be represented as 1cm/C.
+
+Examples of Sensors
+The input is temperature in a mercury-based glass thermometer.  The liquid contained expands and compresses in response, making the level higher or lower on the marked gauge, which is human-readable.
+
+An oxygen sensor in a car’s emission control system senses the gasoline / oxygen ratio, usually through a chemical reaction that produces a voltage.  A computer in the engine reads the voltage and, if the mixture is not ideal, readjusts the balance.
+
+Motion sensors in various systems, including home security lights, automatic doors, and bathroom fixtures, typically transmit some type of energy like microwaves, ultrasonic waves, or light beams, and sense when the flow of energy is hampered by something entering its path.
+
+A photosensor senses the presence of visible light, infrared transmission (IR), and / or ultraviolet (UV) energy.
+
+Sensor Selection Criteria
+Accuracy – measurements are expected to be accurate
+Calibration – readings changes with time, so it should be regularly calibrated accordingly
+Cost – should be within budget
+Environmental condition – should comply with temperature or humidity limits
+Range – should include clearly defined limits of measurement
+Repeatability – variable readings should be repeatable under the same environment
+Resolution – should be able to reliably sense the smallest increment
+Sensor Classification
+Primary input quantity
+Transduction principles – fundamental criteria followed for an efficient approach
+Material and Technology – usually chosen by a development engineering group
+Property
+Temperature – Thermistors, IC (Integrated Circuits)
+Pressure – Fiber optic, LVDT (Linear Variable Differential Transformer)
+Flow – Electromagnetic, Thermal mass
+Level Sensors – Differential pressure, Thermal displacement
+Proximity and displacement – Photoelectric sensors, Ultrasonic
+Biosensors – Resonant mirrors, Surface plasmon resonance
+Image – Charge coupled devices, CMOS (Complementary Metal Oxide Semiconductor)
+Gas and chemical – Semiconductors, Conductance
+Acceleration – Gyroscopes, Accelerometers
+Others – Moisture sensors, Speed sensors
+Application
+Industrial process control, measurement, and automation
+Non-industrial use – Aircraft, Automobiles
+Power or Energy Supply Requirement
+Active Sensor – requires power supply like LiDAR (Light Detection and Ranging), Photoconductive cells
+Passive Sensor – does not require a power supply: examples include Radiometers, Film photography sensors

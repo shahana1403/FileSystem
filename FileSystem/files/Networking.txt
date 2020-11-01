@@ -1,0 +1,5 @@
+NETWORKING
+
+Computer networking enables devices and endpoints to be connected to each other on a local area network (LAN) 
+or to a larger network, such as the internet or a private wide area network (WAN). This is an essential function for service providers, 
+businesses and consumers worldwide to share resources, use or offer services, and communicate.

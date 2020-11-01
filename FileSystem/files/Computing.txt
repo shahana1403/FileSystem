@@ -1,0 +1,32 @@
+The goal of cloud computing is to allow users to take benefit from all of these technologies, without the need for deep knowledge about or 
+expertise with each one of them. The cloud aims to cut costs and helps the users focus on their core business instead of
+ being impeded by IT obstacles.[47] The main enabling technology for cloud computing is virtualization. Virtualization software separates
+ a physical computing device into one or more "virtual" devices, each of which can be easily used and managed to perform computing tasks.
+ With operating system–level virtualization essentially creating a scalable system of multiple independent computing devices, idle computing
+ resources can be allocated and used more efficiently. Virtualization provides the agility required to speed up IT operations and reduces cost
+ by increasing infrastructure utilization. Autonomic computing automates the process through which the user can provision resources on-demand.
+ By minimizing user involvement, automation speeds up the process, reduces labor costs and reduces the possibility of human errors.[47]
+
+Cloud computing uses concepts from utility computing to provide metrics for the services used. Cloud computing attempts to address QoS
+ (quality of service) and reliability problems of other grid computing models.[47]
+
+Cloud computing shares characteristics with:
+
+Client–server model—Client–server computing refers broadly to any distributed application that distinguishes between service providers
+ (servers) and service requestors (clients).[48]
+Computer bureau—A service bureau providing computer services, particularly from the 1960s to 1980s.
+Grid computing—A form of distributed and parallel computing, whereby a 'super and virtual computer' is composed of a cluster of networked,
+ loosely coupled computers acting in concert to perform very large tasks.
+Fog computing—Distributed computing paradigm that provides data, compute, storage and application services closer to the client or near-user 
+edge devices, such as network routers. Furthermore, fog computing handles data at the network level, on smart devices and on the end-user
+ client-side (e.g. mobile devices), instead of sending data to a remote location for processing.
+Mainframe computer—Powerful computers used mainly by large organizations for critical applications, typically bulk data processing such as 
+census; industry and consumer statistics; police and secret intelligence services; enterprise resource planning; and financial transaction 
+processing.
+Utility computing—The "packaging of computing resources, such as computation and storage, as a metered service similar to a traditional
+ public utility, such as electricity."[49][50]
+Peer-to-peer—A distributed architecture without the need for central coordination. Participants are both suppliers and consumers of resources 
+(in contrast to the traditional client-server model).
+Green computing
+Cloud sandbox—A live, isolated computer environment in which a program, code or file can run without affecting the application in which it
+ runs.
